@@ -1,0 +1,8 @@
+name: DiscordCommand
+version: '${project.version}'
+main: de.waldperlachfabi.discordcommand.DiscordCommandCore
+api-version: 1.17
+description: Exclusive Plugin for MC World
+commands:
+  discord:
+    aliases: [dc]
